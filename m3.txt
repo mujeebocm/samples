@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+feature1
+>>>>>>> feature1
 from master
